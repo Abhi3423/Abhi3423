@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi3423&theme=algolia" alt="Abhi3423" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abhi3423" alt="GitHub Streak" /></p>
 
 ## 🛠️ My Skills
 
