@@ -110,7 +110,7 @@
 
 ## 📊 Github Stats (Expand to View)
 
-<details> 
+<details open> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -124,7 +124,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 	<a href="https://github.com/Abhi3423"><img alt="Abhishek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi3423&custom_title=Abhishek%20Yadav's%20Contribution%20Graph&theme=react-dark" /></a>
